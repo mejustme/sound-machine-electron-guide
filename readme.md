@@ -1,3 +1,4 @@
-# Accompanying repository for the Electron guide
+# electron 构建桌面app 学习
+### Accompanying repository for the Electron guide
 
-![Sound Machine](https://rawgithub.com/bojzi/sound-machine/master/sketch/sound-machine.png)
+![Sound Machine](http://newsget-cache.stor.sinaapp.com/6bd88d66e970c29a0f4ab5510a8dce02.png)
